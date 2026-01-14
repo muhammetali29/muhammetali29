@@ -19,5 +19,5 @@ Gerçek hayat problemlerine yönelik projeler geliştirerek kendimi teknik ve an
 - **Deep Spam** – Türkçe e-postalar için makine öğrenmesi tabanlı spam tespit sistemi  
 - **Sürücü Yorgunluk Tespit Sistemi** – Bilgisayarlı görü ile gerçek zamanlı tespit  
 - **Restoran Otomasyon Sistemi** – Web tabanlı otomasyon projesi  
-- **Kuaför Randevu Sistemi**
+- **Kuaför Randevu Sistemi** - Web tabanlı otomasyon projesi
 
