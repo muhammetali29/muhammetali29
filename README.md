@@ -10,7 +10,7 @@ Gerçek hayat problemlerine yönelik projeler geliştirerek kendimi teknik ve an
 - Sistem ve Uygulama Güvenliği
 
 ### 🛠️ Kullandığım Teknolojiler
-- Python, JavaScript, C#
+- Python, PHP, C#
 - HTML, CSS
 - SQL
 
