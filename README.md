@@ -13,7 +13,6 @@ Gerçek hayat problemlerine yönelik projeler geliştirerek kendimi teknik ve an
 - Python, JavaScript, C#
 - HTML, CSS
 - SQL
-- Git ve GitHub
 
 ### 📌 Öne Çıkan Projeler
 - **Deep Spam** – Türkçe e-postalar için makine öğrenmesi tabanlı spam tespit sistemi  
